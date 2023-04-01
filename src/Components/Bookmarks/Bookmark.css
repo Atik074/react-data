@@ -1,0 +1,22 @@
+.bookmark-part{
+    background: rgba(17, 17, 17, 0.05);
+ 
+}
+
+/* responsive */
+@media screen and (max-width:576px) {
+ .spend-part{
+        margin: 0;
+        padding-right:5px ;
+    }
+    .bookmark-part{
+        margin: 0;
+        padding: 0;
+    }
+    .tt{
+        margin: 0;
+        padding: 0;   
+    }
+ }
+
+
